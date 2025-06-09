@@ -6,8 +6,6 @@ Este projeto foi desenvolvido como parte do curso de **Bootstrap 5**, com o obje
 
 ![Meteora Preview](./assets/logo-meteora.png)
 
-> Substitua pelo caminho correto da imagem no seu repositório.
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -45,11 +43,3 @@ Aplicar na prática os principais conceitos do Bootstrap, incluindo:
 - Componentes como `navbar`, `card`, `carousel`
 - Classes utilitárias (`bg-dark`, `text-white`, `p-4`, `text-center`, etc.)
 - Responsividade com breakpoints (`col-12 col-md-6 col-xl-4`, etc.)
-
----
-
-## 📂 Como Executar Localmente
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seuusuario/nome-do-repositorio.git
