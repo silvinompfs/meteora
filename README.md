@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do curso de **Bootstrap 5**, com o obje
 
 ## 📸 Prévia do Projeto
 
-![Meteora Preview](./assets/logo-meteora.png)
+![Meteora Preview](./assets/meteora1.png)
 
 ---
 
