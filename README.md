@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do curso de **Bootstrap 5**, com o obje
 
 ## 📸 Prévia do Projeto
 
-![Meteora Preview](./caminho/para/screenshot.png)
+![Meteora Preview](./assets/logo-meteora.png)
 
 > Substitua pelo caminho correto da imagem no seu repositório.
 
