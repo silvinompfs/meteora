@@ -1,4 +1,4 @@
-# # 🚀 Meteora - Moda de Impacto Positivo
+# # 🚀 Bootstrap 5 - Site responsivo
 
 Este projeto foi desenvolvido como parte do curso de **Bootstrap 5**, com o objetivo de criar um site moderno, responsivo e acessível para uma loja fictícia chamada **Meteora**, que foca em moda com propósito.
 
